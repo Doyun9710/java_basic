@@ -347,49 +347,17 @@ ExceptionEx01 : try ~ with ~ resource 형식
 FileEx01 : 로또 특정 회차 번호 출력   
 
 
+<br><br>
 
 
+< JXLEx01 > jxl 다운 : https://sourceforge.net/projects/jexcelapi/files/jexcelapi/2.6.12/   
+JXLEx01 : jxl 라이브러리 적용   
+JXLEx02 : sheet 이름, 총 행/열 개수 확인   
+
+LottoEx01 : lotto(1083).xls 데이터 확인   
+LottoEx02 : LottoEx01 당첨번호 홀/짝 분류   
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br><br>
 
 
